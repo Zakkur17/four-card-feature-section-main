@@ -22,12 +22,12 @@ The challenge was to build a responsive feature section with four cards, matchin
 
 ### Screenshot
 
-![Four Card Feature Section Screenshot](./design/desktop-preview.jpg)
+![Four Card Feature Section Screenshot](./design/Frontend-Mentor-Four-card-feature-section-screenshot.png)
 
 ### Links
 
-- **Live Site URL**: [Add your live site URL here, e.g., https://yourusername.github.io/four-card-feature-section]
-- **Solution URL**: [Add your GitHub repo URL here, e.g., https://github.com/yourusername/four-card-feature-section]
+- **Live Site URL**: [https://zakkur17.github.io/four-card-feature-section-main/]
+- **Solution URL**: [https://github.com/Zakkur17/four-card-feature-section-main.git]
 
 ## My Process
 
@@ -66,6 +66,6 @@ This project helped me enhance several key skills:
 
 ## Author
 
-- Name: [Your Name Here]
-- Frontend Mentor: [@YourUsername](https://www.frontendmentor.io/profile/YourUsername)
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- Name: [Zakkur Lie-A-Ling]
+- Frontend Mentor: [@Zakkur17](https://www.frontendmentor.io/profile/Zakkur17)
+- GitHub: [Zakkur17](https://github.com/Zakkur17)

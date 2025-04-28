@@ -66,6 +66,6 @@ This project helped me enhance several key skills:
 
 ## Author
 
-- Name: [Zakkur Lie-A-Ling]
+- Name: Zakkur Lie-A-Ling
 - Frontend Mentor: [@Zakkur17](https://www.frontendmentor.io/profile/Zakkur17)
 - GitHub: [Zakkur17](https://github.com/Zakkur17)
